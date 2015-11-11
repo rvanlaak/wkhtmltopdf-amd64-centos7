@@ -4,7 +4,7 @@
 
 ## Install
 
-1. Run `composer require "Rvanlaak/wkhtmltopdf-binaries-centos6:~0.12"`
+1. Run `composer require "rvanlaak/wkhtmltopdf-binaries-centos6:~0.12"`
 
 2. All the binaries are symlinked to the following paths:
 
