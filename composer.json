@@ -1,5 +1,5 @@
 {
-    "name": "Rvanlaak/wkhtmltopdf-amd64-centos7",
+    "name": "rvanlaak/wkhtmltopdf-amd64-centos7",
     "description": "The wkhtmltopdf binaries for CentOS7",
     "keywords": ["image", "thumbnail", "snapshot", "wkhtmltoimage", "convert", "binary"],
     "license": "LGPL Version 3",
